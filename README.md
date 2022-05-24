@@ -1,8 +1,7 @@
 <h1 align="center">Hi , I'm Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20Angular%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a align="right" href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?color=000000&lines=Computer+Engineering+student"></a>
 </p>
-<hr/>
 
 <br>
 
@@ -13,6 +12,12 @@
 - 📫 How to reach me **a.a.elghawas@gmail.com**
 
 - ⚡ Fun fact :- I'm interested in Data sceince and Web development 
+
+
+## 🔥 Streaks...
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Ashraf-Marzouk&theme=algolia" alt="ahmedashrafmarzouk" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Ashraf-Marzouk&theme=algolia&layout=compact" alt="ahmedashrafmarzouk" /></p>
 
 
 

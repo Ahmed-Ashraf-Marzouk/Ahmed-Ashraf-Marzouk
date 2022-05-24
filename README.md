@@ -13,6 +13,8 @@
 
 <br>
 
+<p algin="center>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmed-ashraf-367548123/" target="_blank"><img align="center"
@@ -38,5 +40,7 @@
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+                                                                                          
+                                                                                          </p>
 
 Template taken from [Adam-pw](https://github.com/Adam-pw)

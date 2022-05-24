@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning Web Development..
 
-- 📫 How to reach me **a.a.elghawas@gmail.com**
-
 - ⚡ Fun fact :- I'm interested in Data sceince and Web development 
 
 <br>

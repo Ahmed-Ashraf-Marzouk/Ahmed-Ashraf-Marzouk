@@ -14,16 +14,7 @@
 <br>
 
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
-</p>
 
-
-<p align="center">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,6 +42,9 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
                                                                                           
+
+  
 </p>
+
 
 Template taken from [Adam-pw](https://github.com/Adam-pw)

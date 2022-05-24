@@ -27,5 +27,5 @@
 </p>
 
 
-Credits:[Adam-pw](https://github.com/Adam-pw), [jaypavasiya](https://github.com/jaypavasiya), 
+Credits:[Adam-pw](https://github.com/Adam-pw), [jaypavasiya](https://github.com/jaypavasiya)
 

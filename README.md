@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a align="right" href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?color=000000&lines=+Computer+engineering+student+%F0%9F%9A%80"></a>
+  <a align="right" href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?color=000000&lines=+Computer+engineering+student+..+%F0%9F%9A%80"></a>
 </p>
 
 <br>

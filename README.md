@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Web Development..
 
-- ⚡ Fun fact :- I'm interested in Data sceince and Web development 
+<!-- - ⚡ Fun fact :- I'm interested in Data sceince and Web development  -->
 
 <br>
 

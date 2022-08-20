@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-ashraf-marzouk&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ashraf-marzouk" /> </p>
 
-- 🌱 I’m currently learning **Javascript, React.js**
+- 🌱 I’m currently learning **Javascript, Angular**
 
 - 📫 How to reach me **a.a.elghawas@gmail.com**
 

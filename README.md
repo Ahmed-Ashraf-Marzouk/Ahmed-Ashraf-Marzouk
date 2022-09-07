@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ashraf</h1>
-<h3 align="center">Computer engineering student ..🚀</h3>
+<h3 align="center">Senior Computer engineering student ..</h3>
+<h3 align="center">Rising..🚀</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-ashraf-marzouk&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ashraf-marzouk" /> </p>
 

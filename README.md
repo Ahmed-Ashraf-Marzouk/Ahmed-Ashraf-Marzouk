@@ -3,7 +3,7 @@
 <h3 align="center">Rising..🚀</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-ashraf-marzouk&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ashraf-marzouk" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmed-ashraf-marzouk&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ashraf-marzouk" /> </p>
 
 - 🌱 I’m currently learning **MATH, Machine learning, Deep learning, NLP**
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed ASHRAF</h1>
+<h1 align="center">Hi 👋, I'm ASHRAF</h1>
 <h3 align="center">Data scientist, exploring Arabic NLP✨</h3>
 <h3 align="center">Rising..🚀</h3>
 

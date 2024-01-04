@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ASHRAF</h1>
+<h1 dir="rtl" align="center">السلام عليكم👋 </h1>
 <h3 align="center">Exploring NLP with safety in mind ✨</h3>
 <h3 align="center">Rising..🚀</h3>
 
